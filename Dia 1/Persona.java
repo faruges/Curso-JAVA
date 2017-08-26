@@ -17,7 +17,7 @@ public class Persona {
  public void pedirCerveza(){
 
  if(edad>= 18){
-	System.out.print("Dar cerveza");
+	System.out.print("cerveza Entregada");
    }else{
 	System.out.print("No tienes edad para tomar");	
  
